@@ -1,0 +1,166 @@
+Exporter version: 5.6.3, Blender version: 2.79 (sub 0)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		export scope        :  ALL
+		inline textures     :  false
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  /Users/indeex/Downloads/modelsExport/baseToturial/girl01/
+	Python World class constructor completed
+	processing begun of mesh:  mesh2
+		processing begun of Standard material:  Material__28
+			Ambient texture found "Ka.001"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.001"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  7054
+		num normals        :  7054
+		num uvs            :  14108
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  20523
+	processing begun of mesh:  mesh11
+		processing begun of Standard material:  Material__27
+			Ambient texture found "Ka"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  1074
+		num normals        :  1074
+		num uvs            :  2148
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3471
+	processing begun of mesh:  mesh1
+		registered as also a user of material:  Material__27
+		num positions      :  124
+		num normals        :  124
+		num uvs            :  248
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  mesh12
+		processing begun of Standard material:  Material__29
+			Ambient texture found "Ka.004"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.004"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  162
+		num normals        :  162
+		num uvs            :  324
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  864
+	processing begun of mesh:  mesh6
+		processing begun of Standard material:  Material__25
+			Ambient texture found "Ka.002"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.002"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  2205
+		num normals        :  2205
+		num uvs            :  4410
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8889
+	processing begun of mesh:  mesh8
+		registered as also a user of material:  Material__27
+		num positions      :  1192
+		num normals        :  1192
+		num uvs            :  2384
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3177
+	processing begun of mesh:  mesh16
+		registered as also a user of material:  Material__28
+		num positions      :  52
+		num normals        :  52
+		num uvs            :  104
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  144
+	processing begun of mesh:  mesh3
+		registered as also a user of material:  Material__25
+		num positions      :  66
+		num normals        :  66
+		num uvs            :  132
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  252
+	processing begun of mesh:  mesh7
+		processing begun of Standard material:  Material__26
+			Ambient texture found "Ka.003"
+				Image texture found, type:  ambientTexture, mapped using: "UVMap"
+			Diffuse texture found "Kd.003"
+				Image texture found, type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  225
+		num normals        :  225
+		num uvs            :  450
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  930
+	processing begun of mesh:  mesh9
+		registered as also a user of material:  Material__25
+		num positions      :  1306
+		num normals        :  1306
+		num uvs            :  2612
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5265
+	processing begun of mesh:  mesh15
+		registered as also a user of material:  Material__27
+		num positions      :  216
+		num normals        :  216
+		num uvs            :  432
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1014
+	processing begun of mesh:  mesh13
+		registered as also a user of material:  Material__28
+		num positions      :  466
+		num normals        :  466
+		num uvs            :  932
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1350
+	processing begun of mesh:  mesh10
+		registered as also a user of material:  Material__25
+		num positions      :  1007
+		num normals        :  1007
+		num uvs            :  2014
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  4320
+	processing begun of mesh:  mesh14
+		registered as also a user of material:  Material__25
+		num positions      :  2117
+		num normals        :  2117
+		num uvs            :  4234
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  3750
+	processing begun of mesh:  mesh4
+		registered as also a user of material:  Material__25
+		num positions      :  3467
+		num normals        :  3467
+		num uvs            :  6934
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  7062
+	processing begun of mesh:  mesh5
+		registered as also a user of material:  Material__26
+		num positions      :  3361
+		num normals        :  3361
+		num uvs            :  6722
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  8154
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (POINT):  Lamp
+========= Writing of scene file started =========
+========= Writing of scene file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.787 secs
