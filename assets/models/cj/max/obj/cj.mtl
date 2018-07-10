@@ -1,0 +1,554 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:10.07.2018 16:31:13
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_002_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_008_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_007_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_006_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_sea_001_07
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_04
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_06
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_Gongdian_001_05
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_qiaoliang_003_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_007_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_building_shenlongzhong_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_006_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_006_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_006_04
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_010_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_shitai_010_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_jianzhu_001_12
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_jianzhu_001_11
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_jianzhu_001_13
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_jianzhu_001_18
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_ludeng_001_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_ludeng_001_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_ludeng_001_05
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_ludeng_001_06
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhucheng_ludeng_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_shideng_004_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_ditan_003_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_zhuzi_001_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_qingzhulanshan_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_qingzhuye_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Building_zhuziwu_001_08
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_qizi_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_xianglu_002_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_common_xiaohuatan_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_red_001_03
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_stone_shanya_003_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_stone_dizhuan_002_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_stone_dizhuan_004_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_zhuzi_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_red_002_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_fuyushan_001_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_yellow_001_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl _ty_Fuben_daqiandian_001environment_Tree_yellow_001_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
